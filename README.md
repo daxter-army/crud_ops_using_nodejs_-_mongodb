@@ -1,4 +1,4 @@
-# crud-operations-using-node.js-and-mongodb
+# Crud operations using Node.js & MongoDB
 
 CRUD Operations using Node.js and MongoDB
 * You can create your account, get info, update credentials, and delete it
